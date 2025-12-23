@@ -1,0 +1,15 @@
+# Polymarket Arbitrage Bot Dependencies
+
+# Polymarket CLOB Client
+py-clob-client>=0.1.0
+
+# Web3 and Ethereum
+web3>=6.0.0
+eth-account>=0.9.0
+
+# Async support
+aiohttp>=3.8.0
+asyncio
+
+# Utilities
+python-dotenv>=1.0.0
